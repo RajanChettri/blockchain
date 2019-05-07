@@ -39,7 +39,21 @@ All the current implementations of blockchains are tightly coupled with the larg
     </li>
   </ol>
   </li>
-  
+  <li>
+  Installation of <b>MetaMask</b>
+  <ol>
+    <li>  <b>Step 1.</b> Go to the <a href="https://metamask.io/">Metamask website.</a></li>
+<li><b>Step 2.</b> Click “Get Chrome Extension” to install Metamask.</li>
+
+<li><b>Step 3.</b> Click “Add to Chrome” in the upper right.</li>
+
+<li><b>Step 4.</b> Click “Add Extension” to complete the installation.</li>
+<li>
+  <p>You will know Metamask has been installed when you see the fox logo on the upper right hand corner of your browser.</li<
+  </li>
+
+  </ol>
+  </li>
   </ol>
 
 
